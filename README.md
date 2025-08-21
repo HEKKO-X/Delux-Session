@@ -1,5 +1,7 @@
-This is the documentation of my time at Delux <coding School. I am learning
-cybersecurity, it's a 6 months program and i wish myself good luck. 
+Documentation of My Learning Journey at Delux Coding School
 
-My colleague is Ademide, friendly one. SHe's gonna be my partner in crime
-for the moment. 
+I am currently enrolled in a six-month Cybersecurity program at Delux Coding School. This documentation will serve as a record of my learning experience, progress, and achievements throughout the course.
+
+I look forward to gaining valuable knowledge and skills in cybersecurity and wish myself success on this journey.
+
+I am also glad to be working alongside my colleague, Ademide, who has been a supportive and collaborative partner in this learning experience.
